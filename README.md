@@ -1,4 +1,7 @@
 # -
+
+# 模型介绍
+
 基于YOLOv1框架的关于无人驾驶的神经网络目标识别模型
 
 我们的项目聚焦于算法开发，核心成果在于构建并训练一个高效的神经网络模型。该模型的设计初衷是具备广泛的物体识别能力，不仅限于车辆，而是涵盖了诸如飞机、自行车、鸟类、船只、瓶子、公交车、汽车、猫、椅子、牛、餐桌、狗、马、摩托车、人、盆栽植物、绵羊、沙发、火车及电视显示器等多样化的VOC（Visual Object Classes）类别。通过精细的训练过程，该神经网络能够学习并识别图片中的这些物体，展现出强大的泛化能力。
@@ -43,6 +46,9 @@
 —————————————————————————————————————————————————————————
 
 # -
+
+# Model Introduction
+
    Neural Network Object Recognition Model for Autonomous Driving Based on YOLOv1 Framework
    
    Our project focuses on algorithm development, with a core achievement being the construction and training of an efficient neural network model. Designed with the intention of possessing extensive object recognition capabilities, this model goes beyond vehicles to encompass a diverse range of VOC (Visual Object Classes) categories such as aeroplanes, bicycles, birds, boats, bottles, buses, cars, cats, chairs, cows, dining tables, dogs, horses, motorbikes, persons, potted plants, sheep, sofas, trains, and tv monitors. Through meticulous training, this neural network learns to identify these objects in images, exhibiting robust generalization abilities.
