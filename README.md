@@ -40,9 +40,9 @@
 
 2. 数据集解压后生成VOCdevkit文件夹，并放在当前项目目录下
    
-————————————————————————————————————————————————————————————————————————————————————————————
+—————————————————————————————————————————————————————————
 
-#-
+# -
    Neural Network Object Recognition Model for Autonomous Driving Based on YOLOv1 Framework
    
    Our project focuses on algorithm development, with a core achievement being the construction and training of an efficient neural network model. Designed with the intention of possessing extensive object recognition capabilities, this model goes beyond vehicles to encompass a diverse range of VOC (Visual Object Classes) categories such as aeroplanes, bicycles, birds, boats, bottles, buses, cars, cats, chairs, cows, dining tables, dogs, horses, motorbikes, persons, potted plants, sheep, sofas, trains, and tv monitors. Through meticulous training, this neural network learns to identify these objects in images, exhibiting robust generalization abilities.
